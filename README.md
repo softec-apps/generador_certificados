@@ -42,4 +42,4 @@ pip install -r requirements.txt
 Para ejecutar el script, simplemente corre el archivo Python desde la línea de comandos o desde tu IDE favorito.
 
 ```bash
-python nombre_del_script.py
+python certificados.py
